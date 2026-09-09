@@ -28,7 +28,7 @@ No requiere Node.js, Python, servidor, API, base de datos, claves ni internet.
 - No usa LLM real en esta versión.
 - No procesa datos empresariales reales.
 
-## Flujo recomendado de demo (5–7 min)
+## Flujo recomendado de demo
 1. Contexto: “Los planes existen; queremos saber dónde fallan antes de una crisis.”
 2. Decision Twin: explicar las dependencias mínimas.
 3. Simular “Ransomware en CRM”.
