@@ -699,9 +699,7 @@ Estos valores son actualmente **hipótesis de validación**, no resultados alcan
 
 # Roadmap
 
-## Etapa 0 — Ideación
-
-**Estado actual**
+## Etapa 0: Ideación
 
 * definición del problema;
 * investigación de mercado;
@@ -712,7 +710,9 @@ Estos valores son actualmente **hipótesis de validación**, no resultados alcan
 
 ---
 
-## Etapa 1 — MVP
+## Etapa 1: MVP
+
+**En desarrollo**
 
 Objetivo:
 
@@ -729,7 +729,7 @@ Posibles capacidades:
 
 ---
 
-## Etapa 2 — Piloto
+## Etapa 2: Piloto
 
 Validación con organizaciones reales.
 
@@ -743,7 +743,7 @@ Incorporación progresiva de:
 
 ---
 
-## Etapa 3 — Integraciones
+## Etapa 3: Integraciones
 
 Posibles integraciones futuras:
 
@@ -758,7 +758,7 @@ Posibles integraciones futuras:
 
 ---
 
-## Etapa 4 — LATAM
+## Etapa 4: LATAM
 
 Desarrollo de nuevos Regulatory Packs.
 
