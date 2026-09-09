@@ -1,4 +1,4 @@
-# CyberReady AI - Demo simulada para validación del PMV
+# CyberReady AI - Demo simulada para validación del MVP
 
 Esta versión NO representa un producto terminado ni una evaluación real de cumplimiento. Está diseñada para entrevistas y sesiones de validación con CISOs, DPOs, equipos de riesgo, SOC, proveedores y expertos de IA.
 
