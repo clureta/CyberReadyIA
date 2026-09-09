@@ -1,4 +1,4 @@
-# CyberReadysponder una pregunta simple pero crítica:
+# CyberReady busca responder una pregunta simple pero crítica:
 
 > **Si mañana ocurre un ciberincidente, ¿nuestro plan realmente funcionaría?**
 
